@@ -55,12 +55,12 @@ author_profile: true
 <div class="box">
 <h1> Member </h1> <!-- 分块的名称-->
 <ul class="gallery">
-<li><a href="#"><em>Abstract</em><img src="/images/bio-photo.jpg" alt="image" /></a></li> <!-- src是图片路径，em中间是悬浮在图片上现实的文本内容-->
-<li><a href="#"><em>Ab</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
-<li><a href="#"><em>Abs</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
-<li><a href="#"><em>Abst</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
-<li><a href="#"><em>Abst</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
-<li><a href="#"><em>Abst</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
+<li><a href="/images/bio-photo.jpg"><em>Abstract</em><img src="/images/bio-photo.jpg" alt="image" /></a></li> <!-- src是图片路径，em中间是悬浮在图片上现实的文本内容, a href是放大查看的图片-->
+<li><a href="/images/bio-photo.jpg"><em>Ab</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
+<li><a href="/images/bio-photo.jpg"><em>Abs</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
+<li><a href="/images/bio-photo.jpg"><em>Abst</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
+<li><a href="/images/bio-photo.jpg"><em>Abst</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
+<li><a href="/images/bio-photo.jpg"><em>Abst</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
 </ul>
 </div>
 
@@ -68,11 +68,11 @@ author_profile: true
 <div class="box"> 
 <h1> Group </h1>
 <ul class="gallery">
-<li><a href="#"><em>Abstract</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
-<li><a href="#"><em>Ab</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
-<li><a href="#"><em>Abs</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
-<li><a href="#"><em>Abst</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
-<li><a href="#"><em>Abst</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
-<li><a href="#"><em>Abst</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
+<li><a href="/images/bio-photo.jpg"><em>Abstract</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
+<li><a href="/images/bio-photo.jpg"><em>Ab</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
+<li><a href="/images/bio-photo.jpg"><em>Abs</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
+<li><a href="/images/bio-photo.jpg"><em>Abst</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
+<li><a href="/images/bio-photo.jpg"><em>Abst</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
+<li><a href="/images/bio-photo.jpg"><em>Abst</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
 </ul>
 </div>
