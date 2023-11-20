@@ -46,20 +46,18 @@ Awards and Honors
 * ***Student Representative of China***, G20 Saint Petersburg. (2013)
 
 ***2. Scholarships***
-* ***Graduate Student Fellowship***, UCLA. (2018, 2019)
+* ***Graduate Student Fellowship***, UCLA. (twice, 2018 and 2019)
   *  Each includes full coverage of tuition, a 12-month stipend and comprehensive health insurance for one academic year.
     
 * ***Incoming Graduate Student Fellowship***, UCLA. (2015 - 2017)
   * Full coverage of tuition (including non-resident tuition), a 24-month stipend and comprehensive health insurance for the first two years of graduate study.
   * Rank 1 globally in the fellowship oral exam of that year.
-  
-* ***National Scholarship of China***. (2014)
-
+ 
 * ***The 20th Anniversary Scholarship of Honors School***, HIT. (2014) 
 
 * ***King's Scholarship of Excellence***, UK. (2013)
 
-* ***National Scholarship of China***. (2012)
+* ***National Scholarship of China***. (twice, 2012 and 2014)
 
 * Recipient of 29 other scholarships (for study, research, volunteer work *etc.*) during undergraduate study at HIT, in total ¥97,600.
 
@@ -68,9 +66,7 @@ Awards and Honors
 
 * ***First Prize***, National Contest of Mechanical Design, China. (2014)
 
-* ***Silver Medal***, iGEM Competition. (2013)
-
-* ***Silver Medal***, iGEM Competition. (2012)
+* ***Silver Medal***, iGEM Competition. (twice, 2012 and 2013)
 
 Publications
 ======
