@@ -1,5 +1,5 @@
 ---
-title: "Control and Experiments of a Novel Tiltable-Rotor Aerial Platform Comprising Quadcopters and Passive Hinges"
+title: "[MECH23]Control and Experiments of a Novel Tiltable-Rotor Aerial Platform Comprising Quadcopters and Passive Hinges"
 collection: publications
 permalink: /publication/RuanLC-MECH23
 excerpt: 'This paper proposes the first fully actuated UAV using regular quadcopters and passive hinges as actuation modules.'
