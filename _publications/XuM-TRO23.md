@@ -1,5 +1,5 @@
 ---
-title: "[T-RO23]Bio-Inspired Cable-Driven Actuation System for Wearable Robotic Devices: Design, Control and Characterization"
+title: "[T-RO23] Bio-Inspired Cable-Driven Actuation System for Wearable Robotic Devices: Design, Control and Characterization"
 collection: publications
 permalink: /publication/XuM-TRO23
 excerpt: 'This paper introduces a bio-inspired actuator that can mimic different functional modes of human muscles during walking, so that can be naturally used for wearable robotic devices.'
