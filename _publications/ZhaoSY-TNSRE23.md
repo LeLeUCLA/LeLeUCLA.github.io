@@ -1,5 +1,5 @@
 ---
-title: "[T-NSRE23] A Learning-Free Method for Locomotion Mode Prediction by Terrain Reconstruction and Visual-Inertial Odometry"
+title: "T-NSRE23-A Learning-Free Method for Locomotion Mode Prediction by Terrain Reconstruction and Visual-Inertial Odometry"
 collection: publications
 permalink: /publication/ZhaoSY-TNSRE23
 excerpt: 'This paper propses a framework that dipicts terrain information and human motion in a unified robust representation for wearable robot control. It avoids the learning process and presents generality across people and scenarios.'
