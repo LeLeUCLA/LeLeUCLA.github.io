@@ -1,5 +1,5 @@
 ---
-title: "T-MRB22-Reducing Migration of Knee Exoskeletons With Dynamic Waist Strap"
+title: "Reducing Migration of Knee Exoskeletons With Dynamic Waist Strap"
 collection: publications
 permalink: /publication/XuM-TMRB22
 excerpt: 'This paper introduces the design of dynamic waist strap to reduce the migration of knee exoskeletons during walking.'
