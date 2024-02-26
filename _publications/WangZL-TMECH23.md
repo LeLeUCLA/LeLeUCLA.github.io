@@ -1,5 +1,5 @@
 ---
-title: "Mechatronic Design and Control of a Rigid-Soft Hybrid Knee Exoskeleton for Gait Intervention"
+title: "T-MECH23: Mechatronic Design and Control of a Rigid-Soft Hybrid Knee Exoskeleton for Gait Intervention"
 collection: publications
 permalink: /publication/WangZL-TMECH23
 excerpt: 'This paper proposes a hybrid knee exoskeleton that achieves lightweight and load support capability simultaneously.'
