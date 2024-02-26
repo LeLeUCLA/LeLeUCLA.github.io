@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lecheng Ruan"
 title_separator          : "-"
 name                     : &name "Lecheng Ruan"
-description              : &description "Teacher, Engineer, Researcher, Investor, Student"
+description              : &description "Teacher, Engineer, Researcher, Investor, Lifelong Student"
 url                      : https://LeLeUCLA.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LeLeUCLA.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lecheng Ruan, Ph.D."
   avatar           : "MyPhoto2.jpg"
-  bio              : "Teacher|Engineer|Researcher|  Investor|Student"
+  bio              : "Teacher|Engineer|Researcher   Investor|Lifelong Student"
   location         : "Beijing, China | Los Angeles, USA"
   employer         :
   pubmed           : 
