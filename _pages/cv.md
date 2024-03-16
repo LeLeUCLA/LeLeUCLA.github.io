@@ -36,7 +36,7 @@ Awards and Honors
 * ***Summa Cum Laude***, HIT. (2015)
 
 * ***CSST Scholar***. (2014)
-  * Finacial support of undergratuate research internship in UCLA. 100 undergraduates awarded annually in China.
+  * Undergrad research internship with full finacial support in UCLA. 100 undergraduates awarded annually in China.
   * The first CSST scholar in HIT history.
  
 * ***Merit Student***, Heilongjiang Province, China. (2014)
