@@ -110,7 +110,7 @@ Teaching
   * ***Bionic Robotics***, College of Engineering, Grad.
   * ***Introduction to Artificial Intelligence***, Yuanpei College, Undergrad.
  
-Review Service
+Review/Editorial Services
 ======
 * ***Journals***
   * *IEEE Transactions on Robotics*
