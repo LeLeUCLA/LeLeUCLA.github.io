@@ -94,6 +94,7 @@ Publications
   * Luo J, Su Y, Ruan L, Zhao Y, Kim D, Sentis L, Fu C. Robust bipedal locomotion based on a hierarchical control structure. ***Robotica***. 2019.
 
 * ***Representation and Learning***
+  * Shi Y, Hou H, Bi Z, Meng F, Wei X, Ruan L, Wang Q. AutoDSL: Automated Domain-Specific Language Design for Structural Representation of Procedures with Constraints. ***Annual Meeting of the Association for Computational Linguistics (ACL)***. 2024. 
   * Shi Y, Li S, Niu X, Xu Q, Liu J, Xu Y, Gu S, He B, Li X, Zhao X, Zhao Z, Lyu Y, Li Z, Liu S, Qiu L, Ji J, Ruan L, Ma Y, Han W, Zhu Y. PersLEARN: research training through the lens of perspective cultivation. ***Annual Meeting of the Association for Computational Linguistics (ACL)***. 2023. 
  
 Teaching
