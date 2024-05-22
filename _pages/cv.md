@@ -77,18 +77,16 @@ Publications
     * Luo J, Zhao Y, Ruan L, Mao S, Fu C. Estimation of com and cop trajectories during human walking based on a wearable visual odometry device. ***IEEE Transactions on Automation Science and Engineering***. 2022.
     * Zhao Y, Lo CY, Ruan L, Pi CH, Kim C, Alsaid Y, Frenkel I, Rico R, Tsao TC, He X. Somatosensory actuator based on stretchable conductive photothermally responsive hydrogel. ***Science Robotics***. 2021.
 
-* ***Unmanned Aerial Vehicle***
+* ***System, Control and Optimization***
   * Ruan L, Pi CH, Su Y, Yu P, Cheng S, Tsao TC. Control and experiments of a novel tiltable-rotor aerial platform comprising quadcopters and passive hinges. ***Mechatronics***. 2023.
   * Su Y, Yu P, Gerber MJ, Ruan L, Tsao TC. Fault-tolerant control of an over-actuated UAV platform built on quadcopters and passive hinges. ***IEEE/ASME Transactions on Mechatronics***. 2023.
   * Yu P, Su Y, Ruan L, Tsao TC. Compensating aerodynamics of over-actuated multi-rotor aerial platform with data-driven iterative learning control. ***IEEE Robotics and Automation Letters***. 2023.
+  * Wang Z, Zhou Z, Ruan L, Duan X, Wang Q. Mechatronic design and control of a rigid-soft hybrid knee exoskeleton for gait intervention. ***IEEE/ASME Transactions on Mechatronics***. 2023.
+  * Xu M, Zhou Z, Shao J, Ruan L, Wang Q. Reducing migration of knee exoskeletons with dynamic waist strap. ***IEEE Transactions on Medical Robotics and Bionics***. 2022.
   * Su Y, Ruan L, Yu P, Pi CH, Gerber MJ, Tsao TC. A fast and efficient attitude control algorithm of a tilt-rotor aerial platform using inputs redundancies. ***IEEE Robotics and Automation Letters***. 2021.
   * Su Y, Yu P, Gerber MJ, Ruan L, Tsao TC. Nullspace-based control allocation of overactuated uav platforms. ***IEEE Robotics and Automation Letters***. 2021.
   * Yu P, Su Y, Gerber MJ, Ruan L, Tsao TC. An over-actuated multi-rotor aerial vehicle with unconstrained attitude angles and high thrust efficiencies. ***IEEE Robotics and Automation Letters***. 2021.
   * Pi CH, Ruan L, Yu P, Su Y, Cheng S, Tsao TC. A simple six degree-of-freedom aerial vehicle built on quadcopters. ***IEEE Conference on Control Technology and Applications (CCTA)***. 2021.
-
-* ***System, Control and Optimization***
-  * Wang Z, Zhou Z, Ruan L, Duan X, Wang Q. Mechatronic design and control of a rigid-soft hybrid knee exoskeleton for gait intervention. ***IEEE/ASME Transactions on Mechatronics***. 2023.
-  * Xu M, Zhou Z, Shao J, Ruan L, Wang Q. Reducing migration of knee exoskeletons with dynamic waist strap. ***IEEE Transactions on Medical Robotics and Bionics***. 2022.
   * Luo J, Gong Z, Su Y, Ruan L, Zhao Y, Asada HH, Fu C. Modeling and balance control of supernumerary robotic limb for overhead tasks. ***IEEE Robotics and Automation Letters***. 2021.
   * Zhu H, Wang D, Boyd N, Zhou Z, Ruan L, Zhang A, Ding N, Zhao Y, Luo J. Terrain-perception-free quadrupedal spinning locomotion on versatile terrains: Modeling, analysis, and experimental validation. ***Frontiers in Robotics and AI***. 2021.
   * Luo J, Su Y, Ruan L, Zhao Y, Kim D, Sentis L, Fu C. Robust bipedal locomotion based on a hierarchical control structure. ***Robotica***. 2019.
