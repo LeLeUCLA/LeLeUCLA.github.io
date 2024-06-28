@@ -71,7 +71,7 @@ Awards and Honors
 Publications
 ======
 * ***Perception and Actuation***
-    * W. Zhu, Z. Ju, G. Fu, L. Ruan, Q. Wang, Design of a Mode-Switchable Elastic Actuator towards Interactive Robotic Applications, ***International Conference on Intelligent Robotics and Applications***, 2024.
+    * W. Zhu, Z. Ju, G. Fu, L. Ruan, Q. Wang. Design of a Mode-Switchable Elastic Actuator towards Interactive Robotic Applications. ***International Conference on Intelligent Robotics and Applications***, 2024.
     * Zhao S, Yu Z, Wang Z, Liu H, Zhou Z, Ruan L, Wang Q. A Learning-Free Method for Locomotion Mode Prediction by Terrain Reconstruction and Visual-Inertial Odometry. ***IEEE Transactions on Neural Systems and Rehabilitation Engineering***. 2023.
     * Xu M, Zhou Z, Wang Z, Ruan L, Mai J, Wang Q. Bio-Inspired Cable-Driven Actuation System for Wearable Robotic Devices: Design, Control and Characterization. ***IEEE Transactions on Robotics***. 2023.
     * Zhou Z, Zhao Z, Ruan L, Wang Q. A Novel Actuation Mechanism for High-bandwidth Bidirectional Rotation of Cable-driven Revolute Joints. ***IFToMM World Congress***. 2023.
@@ -93,7 +93,7 @@ Publications
   * Luo J, Su Y, Ruan L, Zhao Y, Kim D, Sentis L, Fu C. Robust bipedal locomotion based on a hierarchical control structure. ***Robotica***. 2019.
 
 * ***Representation and Learning***
-  * Y. Shi, Q. Xu, F. Meng, L. Ruan, Q. Wang, Abstract Hardware Grounding towards the Automated Design of Automation Systems, ***International Conference on Intelligent Robotics and Applications***, 2024.
+  * Y. Shi, Q. Xu, F. Meng, L. Ruan, Q. Wang, Abstract Hardware Grounding towards the Automated Design of Automation Systems. ***International Conference on Intelligent Robotics and Applications***. 2024.
   * Shi Y, Hou H, Bi Z, Meng F, Wei X, Ruan L, Wang Q. AutoDSL: Automated Domain-Specific Language Design for Structural Representation of Procedures with Constraints. ***Annual Meeting of the Association for Computational Linguistics (ACL)***. 2024. 
   * Shi Y, Li S, Niu X, Xu Q, Liu J, Xu Y, Gu S, He B, Li X, Zhao X, Zhao Z, Lyu Y, Li Z, Liu S, Qiu L, Ji J, Ruan L, Ma Y, Han W, Zhu Y. PersLEARN: research training through the lens of perspective cultivation. ***Annual Meeting of the Association for Computational Linguistics (ACL)***. 2023. 
  
