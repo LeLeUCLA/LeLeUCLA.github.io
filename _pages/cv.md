@@ -71,7 +71,7 @@ Awards and Honors
 Publications
 ======
 * ***Perception and Actuation***
-    * Zhu W, Ju Z, Fu G, Ruan L, Wang Q. Design of a Mode-Switchable Elastic Actuator towards Interactive Robotic Applications. ***International Conference on Intelligent Robotics and Applications (ICIRA)***. 2024.
+    * Zhu W, Ju Z, Fu G, Ruan L, Wang Q. Design of a Mode-Switchable Elastic Actuator towards Interactive Robotic Applications. ***International Conference on Intelligent Robotics and Applications***. 2024.
     * Zhao S, Yu Z, Wang Z, Liu H, Zhou Z, Ruan L, Wang Q. A Learning-Free Method for Locomotion Mode Prediction by Terrain Reconstruction and Visual-Inertial Odometry. ***IEEE Transactions on Neural Systems and Rehabilitation Engineering***. 2023.
     * Xu M, Zhou Z, Wang Z, Ruan L, Mai J, Wang Q. Bio-Inspired Cable-Driven Actuation System for Wearable Robotic Devices: Design, Control and Characterization. ***IEEE Transactions on Robotics***. 2023.
     * Zhou Z, Zhao Z, Ruan L, Wang Q. A Novel Actuation Mechanism for High-bandwidth Bidirectional Rotation of Cable-driven Revolute Joints. ***IFToMM World Congress***. 2023.
@@ -87,15 +87,15 @@ Publications
   * Su Y, Ruan L, Yu P, Pi CH, Gerber MJ, Tsao TC. A fast and efficient attitude control algorithm of a tilt-rotor aerial platform using inputs redundancies. ***IEEE Robotics and Automation Letters***. 2021.
   * Su Y, Yu P, Gerber MJ, Ruan L, Tsao TC. Nullspace-based control allocation of overactuated uav platforms. ***IEEE Robotics and Automation Letters***. 2021.
   * Yu P, Su Y, Gerber MJ, Ruan L, Tsao TC. An over-actuated multi-rotor aerial vehicle with unconstrained attitude angles and high thrust efficiencies. ***IEEE Robotics and Automation Letters***. 2021.
-  * Pi CH, Ruan L, Yu P, Su Y, Cheng S, Tsao TC. A simple six degree-of-freedom aerial vehicle built on quadcopters. ***IEEE Conference on Control Technology and Applications (CCTA)***. 2021.
+  * Pi CH, Ruan L, Yu P, Su Y, Cheng S, Tsao TC. A simple six degree-of-freedom aerial vehicle built on quadcopters. ***IEEE Conference on Control Technology and Applications***. 2021.
   * Luo J, Gong Z, Su Y, Ruan L, Zhao Y, Asada HH, Fu C. Modeling and balance control of supernumerary robotic limb for overhead tasks. ***IEEE Robotics and Automation Letters***. 2021.
   * Zhu H, Wang D, Boyd N, Zhou Z, Ruan L, Zhang A, Ding N, Zhao Y, Luo J. Terrain-perception-free quadrupedal spinning locomotion on versatile terrains: Modeling, analysis, and experimental validation. ***Frontiers in Robotics and AI***. 2021.
   * Luo J, Su Y, Ruan L, Zhao Y, Kim D, Sentis L, Fu C. Robust bipedal locomotion based on a hierarchical control structure. ***Robotica***. 2019.
 
 * ***Representation and Learning***
-  * Shi Y, Xu Q, Meng F, Ruan L, Wang Q. Abstract Hardware Grounding towards the Automated Design of Automation Systems. ***International Conference on Intelligent Robotics and Applications (ICIRA)***. 2024.
-  * Shi Y, Hou H, Bi Z, Meng F, Wei X, Ruan L, Wang Q. AutoDSL: Automated Domain-Specific Language Design for Structural Representation of Procedures with Constraints. ***Annual Meeting of the Association for Computational Linguistics (ACL)***. 2024. 
-  * Shi Y, Li S, Niu X, Xu Q, Liu J, Xu Y, Gu S, He B, Li X, Zhao X, Zhao Z, Lyu Y, Li Z, Liu S, Qiu L, Ji J, Ruan L, Ma Y, Han W, Zhu Y. PersLEARN: research training through the lens of perspective cultivation. ***Annual Meeting of the Association for Computational Linguistics (ACL)***. 2023. 
+  * Shi Y, Xu Q, Meng F, Ruan L, Wang Q. Abstract Hardware Grounding towards the Automated Design of Automation Systems. ***International Conference on Intelligent Robotics and Applications***. 2024.
+  * Shi Y, Hou H, Bi Z, Meng F, Wei X, Ruan L, Wang Q. AutoDSL: Automated Domain-Specific Language Design for Structural Representation of Procedures with Constraints. ***Annual Meeting of the Association for Computational Linguistics***. 2024. 
+  * Shi Y, Li S, Niu X, Xu Q, Liu J, Xu Y, Gu S, He B, Li X, Zhao X, Zhao Z, Lyu Y, Li Z, Liu S, Qiu L, Ji J, Ruan L, Ma Y, Han W, Zhu Y. PersLEARN: research training through the lens of perspective cultivation. ***Annual Meeting of the Association for Computational Linguistics***. 2023. 
  
 Teaching
 ======
