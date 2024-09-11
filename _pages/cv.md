@@ -71,6 +71,7 @@ Awards and Honors
 Publications
 ======
 * ***Perception and Actuation***
+    * Jiang D, Wang T, Wang E, Xue J, Diao W, Xu M, Luo L, Zhao Y, Yuan X, Wang J, Ruan L, Ouyang H, Li Z, Wang Q. Triboelectric and Isontronic Dual-Responsive Bioinspired Ionic Skin for Human–Like Dexterous Robotic Manipulation. ***Nano Energy***. 2024.
     * Zhu W, Ju Z, Fu G, Ruan L, Wang Q. Design of a Mode-Switchable Elastic Actuator towards Interactive Robotic Applications. ***International Conference on Intelligent Robotics and Applications***. 2024.
     * Zhao S, Yu Z, Wang Z, Liu H, Zhou Z, Ruan L, Wang Q. A Learning-Free Method for Locomotion Mode Prediction by Terrain Reconstruction and Visual-Inertial Odometry. ***IEEE Transactions on Neural Systems and Rehabilitation Engineering***. 2023.
     * Xu M, Zhou Z, Wang Z, Ruan L, Mai J, Wang Q. Bio-Inspired Cable-Driven Actuation System for Wearable Robotic Devices: Design, Control and Characterization. ***IEEE Transactions on Robotics***. 2023.
