@@ -129,6 +129,6 @@ Review/Editorial Services
 * ***Conferences*** 
   * *Robotics: Science and Systems (RSS)*
   * *Annual Meeting of the Association for Computational Linguistics (ACL)*
-  * *Conference on Neural Information Processing Systems (NeurIPS)*
+  * *Annual Conference on Neural Information Processing Systems (NeurIPS)*
   * *International Conference on Robotics and Automation (ICRA)*
   * *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
