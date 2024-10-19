@@ -132,4 +132,5 @@ Review/Editorial Services
   * *Annual Conference on Neural Information Processing Systems (NeurIPS)*
   * *International Conference on Robotics and Automation (ICRA)*
   * *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
+  * *IEEE-RAS International Conference on Humanoid Robots (Humanoids)*
   * *American Control Conference (ACC)*
