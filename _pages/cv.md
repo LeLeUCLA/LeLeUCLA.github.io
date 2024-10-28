@@ -113,7 +113,7 @@ Teaching
  
 * ***Tsinghua University*** (2024 - present)
   * ***Critical Management Techniques for Leading Positions***, School of Economics and Management.
-  * ***Artificial Intelligence towards Innovative Paradigm for Business Management***, School of Economics and Management.
+  * ***AI towards Innovative Paradigm for Business Management***, School of Economics and Management.
     
 * ***Peking University*** (2021 - present)
   * ***Introduction to Engineering Science***, College of Engineering.
