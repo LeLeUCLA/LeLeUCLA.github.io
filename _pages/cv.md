@@ -104,16 +104,21 @@ Publications
 Teaching
 ======
 * ***University of California, Los Angeles*** (2016 - 2018)
-  * ***Dynamic Systems***, Mechanical and Aerospace Engineering Dept., Undergrad (as *Teaching Fellow*).
-  * ***Math for Life Scientist - Part B***, Dept. of Life Science, Undergrad (as *Teaching Associate*).
-  * ***Math for Life Scientist - Part A***, Dept. of Life Science, Undergrad (as *Teaching Associate*).
-  * ***System Identification***, Mechanical and Aerospace Eng. Dept., Grad (as *Teaching Assistant*).
-  * ***Linear Optimal Control***, Mechanical and Aerospace Eng. Dept., Grad (as *Teaching Assistant*).
-  * ***Linear Dynamic Systems***, Mechanical and Aerospace Eng. Dept., Grad (as *Teaching Assistant*).
-
+  * ***Dynamic Systems***, Mechanical and Aerospace Engineering Department.
+  * ***Math for Life Scientist - Part B***, Department of Life Science.
+  * ***Math for Life Scientist - Part A***, Department of Life Science.
+  * ***System Identification***, Mechanical and Aerospace Engineering Department.
+  * ***Linear Optimal Control***, Mechanical and Aerospace Engineering Department.
+  * ***Linear Dynamic Systems***, Mechanical and Aerospace Engineering Department.
+ 
+* ***Tsinghua University*** (2024 - present)
+  * ***Critical Management Techniques for Leading Positions***, School of Economics and Management.
+  * ***Artificial Intelligence towards Innovative Paradigm for Business Management***, School of Economics and Management.
+    
 * ***Peking University*** (2021 - present)
-  * ***Bionic Robotics***, College of Engineering, Grad.
-  * ***Introduction to Artificial Intelligence***, Yuanpei College, Undergrad.
+  * ***Introduction to Engineering Science***, College of Engineering.
+  * ***Bionic Robotics***, College of Engineering.
+  * ***Introduction to Artificial Intelligence***, Yuanpei College.
  
 Review/Editorial Services
 ======
