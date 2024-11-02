@@ -95,6 +95,7 @@ Publications
   * Luo J, Su Y, Ruan L, Zhao Y, Kim D, Sentis L, Fu C. Robust Bipedal Locomotion Based on a Hierarchical Control Structure. ***Robotica***. 2019.
 
 * ***Representation and Learning***
+  * Zhao Z, Li Y, Li W, Qi Z, Ruan L, Zhu Y, Althoefer K. Tac-Man: Tactile-Informed Prior-Free Manipulation of Articulated Objects. ***IEEE Transactions on Robotics***. 2024.
   * Shi YZ, Meng F, Hou H, Bi Z,  Xu Q, Ruan L, Wang Q. Expert-Level Protocol Translation for Self-Driving Labs. ***Annual Conference on Neural Information Processing Systems***. 2024.
   * Shi YZ, Li H, Ruan L, Qu H. Constraint Representation towards Precise Data-Driven Storytelling. ***IEEE Visualization Conference***. 2024.
   * Shi YZ, Xu Q, Meng F, Ruan L, Wang Q. Abstract Hardware Grounding towards the Automated Design of Automation Systems. ***International Conference on Intelligent Robotics and Applications***. 2024.
