@@ -80,6 +80,7 @@ Publications
     * Zhao Y, Lo CY, Ruan L, Pi CH, Kim C, Alsaid Y, Frenkel I, Rico R, Tsao TC, He X. Somatosensory Actuator Based on Stretchable Conductive Photothermally Responsive Hydrogel. ***Science Robotics***. 2021.
 
 * ***System, Control and Optimization***
+  * Dai X, Zhou Z, Wang Z, Ruan L, Wang R, Rong X, Li Y, Wang Q. Reducing Knee Joint Loads During Stance Phase with a Rigid-Soft Hybrid Exoskeleton. ***IEEE Transactions on Neural Systems and Rehabilitation Engineering***. 2024.
   * Fu G, Zhu W, Wang H, Huang Y, Zhu J, Ruan L, Wang Q. A Robotic Transtibial Prosthesis with Equilibrium-Adjustable Parallel Springs to Improve Energy Efficiency in Slope Walking. ***IEEE/ASME Transactions on Mechatronics***. 2024.
   * Ruan L, Pi CH, Su Y, Yu P, Cheng S, Tsao TC. Control and Experiments of a Novel Tiltable-Rotor Aerial Platform Comprising Quadcopters and Passive Hinges. ***Mechatronics***. 2023.
   * Su Y, Yu P, Gerber MJ, Ruan L, Tsao TC. Fault-Tolerant Control of an Overactuated UAV Platform Built on Quadcopters and Passive Hinges. ***IEEE/ASME Transactions on Mechatronics***. 2023.
