@@ -71,6 +71,7 @@ Awards and Honors
 Publications
 ======
 * ***Perception and Actuation***
+    * Gao S, Yang C, Chen H, He X, Ruan L, Wang Q. Bioinspired Origami-based Soft Prosthetic Knee. ***Nature Communications***. 2024.
     * Jiang D, Wang T, Wang E, Xue J, Diao W, Xu M, Luo L, Zhao Y, Yuan X, Wang J, Ruan L, Ouyang H, Li Z, Wang Q. Triboelectric and Isontronic Dual-Responsive Bioinspired Ionic Skin for Human–Like Dexterous Robotic Manipulation. ***Nano Energy***. 2024.
     * Zhu W, Ju Z, Fu G, Ruan L, Wang Q. Design of a Mode-Switchable Elastic Actuator towards Interactive Robotic Applications. ***International Conference on Intelligent Robotics and Applications***. 2024.
     * Zhao S, Yu Z, Wang Z, Liu H, Zhou Z, Ruan L, Wang Q. A Learning-Free Method for Locomotion Mode Prediction by Terrain Reconstruction and Visual-Inertial Odometry. ***IEEE Transactions on Neural Systems and Rehabilitation Engineering***. 2023.
