@@ -27,6 +27,8 @@ Awards and Honors
 ======
 ***1. Honors***
 
+* ***Teaching Star of the Year***, School of Economics and Management, Tsinghua University. (2024)
+
 * ***Keynote Speaker***, HIT Commencement for Honor Degree. (2016)
 
 * ***Li-Chang Award*** **(李昌奖)**, President Award of HIT. (2015)
@@ -43,7 +45,7 @@ Awards and Honors
 
 * ***Pioneering Merit Student***, HIT. (2014)
 
-* ***Student Representative of China***, G20 Saint Petersburg. (2013)
+* ***Student Representative***, G20 Saint Petersburg. (2013)
 
 ***2. Scholarships***
 * ***Graduate Student Fellowship***, UCLA. (twice, 2018 and 2019)
