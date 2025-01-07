@@ -108,6 +108,16 @@ Publications
  
 Teaching
 ======
+    
+* ***Peking University*** (2021 - present)
+  * ***Introduction to Engineering Science***, College of Engineering.
+  * ***Bionic Robotics***, College of Engineering.
+  * ***Introduction to Artificial Intelligence***, Yuanpei College.
+
+* ***Tsinghua University*** (2024 - present)
+  * ***Critical Management Techniques for Leading Positions***, School of Economics and Management.
+  * ***AI towards Innovative Paradigm for Business Management***, School of Economics and Management.
+
 * ***University of California, Los Angeles*** (2016 - 2018)
   * ***Dynamic Systems***, Mechanical and Aerospace Engineering Department.
   * ***Math for Life Scientist - Part B***, Department of Life Science.
@@ -115,15 +125,6 @@ Teaching
   * ***System Identification***, Mechanical and Aerospace Engineering Department.
   * ***Linear Optimal Control***, Mechanical and Aerospace Engineering Department.
   * ***Linear Dynamic Systems***, Mechanical and Aerospace Engineering Department.
- 
-* ***Tsinghua University*** (2024 - present)
-  * ***Critical Management Techniques for Leading Positions***, School of Economics and Management.
-  * ***AI towards Innovative Paradigm for Business Management***, School of Economics and Management.
-    
-* ***Peking University*** (2021 - present)
-  * ***Introduction to Engineering Science***, College of Engineering.
-  * ***Bionic Robotics***, College of Engineering.
-  * ***Introduction to Artificial Intelligence***, Yuanpei College.
  
 Review/Editorial Services
 ======
