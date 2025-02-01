@@ -100,6 +100,7 @@ Publications
 
 * ***Representation and Learning***
   * Zhao Z, Li Y, Li W, Qi Z, Ruan L, Zhu Y, Althoefer K. Tac-Man: Tactile-Informed Prior-Free Manipulation of Articulated Objects. ***IEEE Transactions on Robotics***. 2024.
+  * Hou H, Zhu W, Ruan L, Wang Q. Prosthetic Control by Learning: A Multi-Agent Corporative Game Framework. ***International Conference on Rehabilitation Robotics***. 2025.
   * Shi YZ, Liu M, Meng F, Xu Q, Bi Z, He K, Ruan L, Wang Q. Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs. ***International Conference on Learning Representations***. 2025.
   * Shi YZ, Meng F, Hou H, Bi Z,  Xu Q, Ruan L, Wang Q. Expert-Level Protocol Translation for Self-Driving Labs. ***Annual Conference on Neural Information Processing Systems***. 2024.
   * Shi YZ, Li H, Ruan L, Qu H. Constraint Representation towards Precise Data-Driven Storytelling. ***IEEE Visualization Conference***. 2024.
