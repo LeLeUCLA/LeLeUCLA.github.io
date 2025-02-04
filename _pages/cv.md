@@ -77,6 +77,7 @@ Publications
     * Zhao S, Yu Z, Wang Z, Liu H, Zhou Z, Ruan L, Wang Q. A Learning-Free Method for Locomotion Mode Prediction by Terrain Reconstruction and Visual-Inertial Odometry. ***IEEE Transactions on Neural Systems and Rehabilitation Engineering***. 2023.
     * Xu M, Zhou Z, Wang Z, Ruan L, Mai J, Wang Q. Bio-Inspired Cable-Driven Actuation System for Wearable Robotic Devices: Design, Control and Characterization. ***IEEE Transactions on Robotics***. 2023.
     * Luo J, Zhao Y, Ruan L, Mao S, Fu C. Estimation of CoM and CoP Trajectories During Human Walking Based on a Wearable Visual Odometry Device. ***IEEE Transactions on Automation Science and Engineering***. 2022.
+    * Zhao S, Tan J, Liu F, Ruan L, Wang Q. High-Frequency Terrain Characterization with a Wearable Visual Device. ***International Conference on Control, Automation and Robotics***. 2025.
     * Zhao Y, Lo CY, Ruan L, Pi CH, Kim C, Alsaid Y, Frenkel I, Rico R, Tsao TC, He X. Somatosensory Actuator Based on Stretchable Conductive Photothermally Responsive Hydrogel. ***Science Robotics***. 2021.
     * Zhu W, Ju Z, Fu G, Ruan L, Wang Q. Design of a Mode-Switchable Elastic Actuator towards Interactive Robotic Applications. ***International Conference on Intelligent Robotics and Applications***. 2024.
     * Zhou Z, Zhao Z, Ruan L, Wang Q. A Novel Actuation Mechanism for High-bandwidth Bidirectional Rotation of Cable-driven Revolute Joints. ***IFToMM World Congress***. 2023.
