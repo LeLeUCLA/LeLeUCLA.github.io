@@ -73,42 +73,44 @@ Awards and Honors
 Publications
 ======
 * ***Perception and Actuation***
-    * Jiang D, Wang T, Wang E, Xue J, Diao W, Xu M, Luo L, Zhao Y, Yuan X, Wang J, Ruan L, Ouyang H, Li Z, Wang Q. Triboelectric and Isontronic Dual-Responsive Bioinspired Ionic Skin for Human–Like Dexterous Robotic Manipulation. ***Nano Energy***. 2024.
-    * Zhao S, Yu Z, Wang Z, Liu H, Zhou Z, Ruan L, Wang Q. A Learning-Free Method for Locomotion Mode Prediction by Terrain Reconstruction and Visual-Inertial Odometry. ***IEEE Transactions on Neural Systems and Rehabilitation Engineering***. 2023.
-    * Xu M, Zhou Z, Wang Z, Ruan L, Mai J, Wang Q. Bio-Inspired Cable-Driven Actuation System for Wearable Robotic Devices: Design, Control and Characterization. ***IEEE Transactions on Robotics***. 2023.
-    * Luo J, Zhao Y, Ruan L, Mao S, Fu C. Estimation of CoM and CoP Trajectories During Human Walking Based on a Wearable Visual Odometry Device. ***IEEE Transactions on Automation Science and Engineering***. 2022.
-    * Zhao Y, Lo CY, Ruan L, Pi CH, Kim C, Alsaid Y, Frenkel I, Rico R, Tsao TC, He X. Somatosensory Actuator Based on Stretchable Conductive Photothermally Responsive Hydrogel. ***Science Robotics***. 2021.
-    * Zhao S, Tan J, Liu F, Ruan L, Wang Q. High-Frequency Terrain Characterization with a Wearable Visual Device. ***International Conference on Control, Automation and Robotics***. 2025.
-    * Zhu W, Ju Z, Fu G, Ruan L, Wang Q. Design of a Mode-Switchable Elastic Actuator towards Interactive Robotic Applications. ***International Conference on Intelligent Robotics and Applications***. 2024.
-    * Zhou Z, Zhao Z, Ruan L, Wang Q. A Novel Actuation Mechanism for High-bandwidth Bidirectional Rotation of Cable-driven Revolute Joints. ***IFToMM World Congress***. 2023.
+    * D. Jiang, T. Wang, E. Wang, J. Xue, W. Diao, M. Xu, L. Luo, Y. Zhao, X. Yuan, J. Wang, L. Ruan, H. Ouyang, Z. Li, Q. Wang. Triboelectric and Isontronic Dual-Responsive Bioinspired Ionic Skin for Human--Like Dexterous Robotic Manipulation. ***Nano Energy***. 2024.
+    * S. Zhao, Z. Yu, Z. Wang, H. Liu, Z. Zhou, L. Ruan, Q. Wang. A Learning-Free Method for Locomotion Mode Prediction by Terrain Reconstruction and Visual-Inertial Odometry. ***IEEE Transactions on Neural Systems and Rehabilitation Engineering***. 2023.
+    * M. Xu, Z. Zhou, Z. Wang, L. Ruan, J. Mai, Q. Wang. Bio-Inspired Cable-Driven Actuation System for Wearable Robotic Devices: Design, Control and Characterization. ***IEEE Transactions on Robotics***. 2023.
+    * J. Luo, Y. Zhao, L. Ruan, S. Mao, C. Fu. Estimation of CoM and CoP Trajectories During Human Walking Based on a Wearable Visual Odometry Device. ***IEEE Transactions on Automation Science and Engineering***. 2022.
+    * Y. Zhao, C.Y. Lo, L. Ruan, C.H. Pi, C. Kim, Y. Alsaid, I. Frenkel, R. Rico, T.C. Tsao, X. He. Somatosensory Actuator Based on Stretchable Conductive Photothermally Responsive Hydrogel. ***Science Robotics***. 2021.
+    * S. Zhao, J. Tan, F. Liu, L. Ruan, Q. Wang. High-Frequency Terrain Characterization with a Wearable Visual Device. ***International Conference on Control, Automation and Robotics***. 2025.
+    * W. Zhu, Z. Ju, G. Fu, L. Ruan, Q. Wang. Design of a Mode-Switchable Elastic Actuator towards Interactive Robotic Applications. ***International Conference on Intelligent Robotics and Applications***. 2024.
+    * Z. Zhou, Z. Zhao, L. Ruan, Q. Wang. A Novel Actuation Mechanism for High-bandwidth Bidirectional Rotation of Cable-driven Revolute Joints. ***IFToMM World Congress***. 2023.
 
 * ***System, Control and Optimization***
-  * Gao S, Yang C, Chen H, He X, Ruan L, Wang Q. Bioinspired Origami-Based Soft Prosthetic Knee. ***Nature Communications***. 2024.
-  * Dai X, Zhou Z, Wang Z, Ruan L, Wang R, Rong X, Li Y, Wang Q. Reducing Knee Joint Loads During Stance Phase with a Rigid-Soft Hybrid Exoskeleton. ***IEEE Transactions on Neural Systems and Rehabilitation Engineering***. 2024.
-  * Fu G, Zhu W, Wang H, Huang Y, Zhu J, Ruan L, Wang Q. A Robotic Transtibial Prosthesis with Equilibrium-Adjustable Parallel Springs to Improve Energy Efficiency in Slope Walking. ***IEEE/ASME Transactions on Mechatronics***. 2024.
-  * Ruan L, Pi CH, Su Y, Yu P, Cheng S, Tsao TC. Control and Experiments of a Novel Tiltable-Rotor Aerial Platform Comprising Quadcopters and Passive Hinges. ***Mechatronics***. 2023.
-  * Su Y, Yu P, Gerber MJ, Ruan L, Tsao TC. Fault-Tolerant Control of an Overactuated UAV Platform Built on Quadcopters and Passive Hinges. ***IEEE/ASME Transactions on Mechatronics***. 2023.
-  * Yu P, Su Y, Ruan L, Tsao TC. Compensating Aerodynamics of Over-actuated Multi-rotor Aerial Platform with Data-driven Iterative Learning Control. ***IEEE Robotics and Automation Letters***. 2023.
-  * Wang Z, Zhou Z, Ruan L, Duan X, Wang Q. Mechatronic Design and Control of a Rigid-Soft Hybrid Knee Exoskeleton for Gait Intervention. ***IEEE/ASME Transactions on Mechatronics***. 2023.
-  * Xu M, Zhou Z, Shao J, Ruan L, Wang Q. Reducing Migration of Knee Exoskeletons With Dynamic Waist Strap. ***IEEE Transactions on Medical Robotics and Bionics***. 2022.
-  * Su Y, Ruan L, Yu P, Pi CH, Gerber MJ, Tsao TC. A Fast and Efficient Attitude Control Algorithm of a Tilt-Rotor Aerial Platform Using Inputs Redundancies. ***IEEE Robotics and Automation Letters***. 2021.
-  * Su Y, Yu P, Gerber MJ, Ruan L, Tsao TC. Nullspace-Based Control Allocation of Overactuated UAV Platforms. ***IEEE Robotics and Automation Letters***. 2021.
-  * Yu P, Su Y, Gerber MJ, Ruan L, Tsao TC. An Over-Actuated Multi-Rotor Aerial Vehicle With Unconstrained Attitude Angles and High Thrust Efficiencies. ***IEEE Robotics and Automation Letters***. 2021.
-  * Luo J, Gong Z, Su Y, Ruan L, Zhao Y, Asada HH, Fu C. Modeling and Balance Control of Supernumerary Robotic Limb for Overhead Tasks. ***IEEE Robotics and Automation Letters***. 2021.
-  * Zhu H, Wang D, Boyd N, Zhou Z, Ruan L, Zhang A, Ding N, Zhao Y, Luo J. Terrain-Perception-Free Quadrupedal Spinning Locomotion on Versatile Terrains: Modeling, Analysis, and Experimental Validation. ***Frontiers in Robotics and AI***. 2021.
-  * Luo J, Su Y, Ruan L, Zhao Y, Kim D, Sentis L, Fu C. Robust Bipedal Locomotion Based on a Hierarchical Control Structure. ***Robotica***. 2019.
-  * Pi CH, Ruan L, Yu P, Su Y, Cheng S, Tsao TC. A Simple Six Degree-of-Freedom Aerial Vehicle Built on Quadcopters. ***IEEE Conference on Control Technology and Applications***. 2021.
+  * S. Gao, C. Yang, H. Chen, X. He, L. Ruan, Q. Wang. Bioinspired Origami-Based Soft Prosthetic Knee. ***Nature Communications***. 2024.
+  * X. Dai, Z. Zhou, Z. Wang, L. Ruan, R. Wang, X. Rong, Y. Li, Q. Wang. Reducing Knee Joint Loads During Stance Phase with a Rigid-Soft Hybrid Exoskeleton. ***IEEE Transactions on Neural Systems and Rehabilitation Engineering***. 2024.
+  * G. Fu, W. Zhu, H. Wang, Y. Huang, J. Zhu, L. Ruan, Q. Wang. A Robotic Transtibial Prosthesis with Equilibrium-Adjustable Parallel Springs to Improve Energy Efficiency in Slope Walking. ***IEEE/ASME Transactions on Mechatronics***. 2024.
+  * L. Ruan, C.H. Pi, Y. Su, P. Yu, S. Cheng, T.C. Tsao. Control and Experiments of a Novel Tiltable-Rotor Aerial Platform Comprising Quadcopters and Passive Hinges. ***Mechatronics***. 2023.
+  * Y. Su, P. Yu, M.J. Gerber, L. Ruan, T.C. Tsao. Fault-Tolerant Control of an Overactuated UAV Platform Built on Quadcopters and Passive Hinges. ***IEEE/ASME Transactions on Mechatronics***. 2023.
+  * P. Yu, Y. Su, L. Ruan, T.C. Tsao. Compensating Aerodynamics of Over-actuated Multi-rotor Aerial Platform with Data-driven Iterative Learning Control. ***IEEE Robotics and Automation Letters***. 2023.
+  * Z. Wang, Z. Zhou, L. Ruan, X. Duan, Q. Wang. Mechatronic Design and Control of a Rigid-Soft Hybrid Knee Exoskeleton for Gait Intervention. ***IEEE/ASME Transactions on Mechatronics***. 2023.
+  * M. Xu, Z. Zhou, J. Shao, L. Ruan, Q. Wang. Reducing Migration of Knee Exoskeletons With Dynamic Waist Strap. ***IEEE Transactions on Medical Robotics and Bionics***. 2022.
+  * Y. Su, L. Ruan, P. Yu, C.H. Pi, M.J. Gerber, T.C. Tsao. A Fast and Efficient Attitude Control Algorithm of a Tilt-Rotor Aerial Platform Using Inputs Redundancies. ***IEEE Robotics and Automation Letters***. 2021.
+  * Y. Su, P. Yu, M.J. Gerber, L. Ruan, T.C. Tsao. Nullspace-Based Control Allocation of Overactuated UAV Platforms. ***IEEE Robotics and Automation Letters***. 2021.
+  * P. Yu, Y. Su, M.J. Gerber, L. Ruan, T.C. Tsao. An Over-Actuated Multi-Rotor Aerial Vehicle With Unconstrained Attitude Angles and High Thrust Efficiencies. ***IEEE Robotics and Automation Letters***. 2021.
+  * J. Luo, Z. Gong, Y. Su, L. Ruan, Y. Zhao, H.H. Asada, C. Fu. Modeling and Balance Control of Supernumerary Robotic Limb for Overhead Tasks. ***IEEE Robotics and Automation Letters***. 2021.
+  * H. Zhu, D. Wang, N. Boyd, Z. Zhou, L. Ruan, A. Zhang, N. Ding, Y. Zhao, J. Luo. Terrain-Perception-Free Quadrupedal Spinning Locomotion on Versatile Terrains: Modeling, Analysis, and Experimental Validation. ***Frontiers in Robotics and AI***. 2021.
+  * J. Luo, Y. Su, L. Ruan, Y. Zhao, D. Kim, L. Sentis, C. Fu. Robust Bipedal Locomotion Based on a Hierarchical Control Structure. ***Robotica***. 2019.
+  * W. Zhu, M. Cai, H. Hou, S. Zhao, L. Ruan, Q. Wang. Obstacle Avoidance for Knee Prostheses via Direct Integration of Environment Information. ***Chinese Control Conference***. 2025.
+  * C.H. Pi, L. Ruan, P. Yu, Y. Su, S. Cheng, T.C. Tsao. A Simple Six Degree-of-Freedom Aerial Vehicle Built on Quadcopters. ***IEEE Conference on Control Technology and Applications***. 2021.
 
 * ***Representation and Learning***
-  * Zhao Z, Li Y, Li W, Qi Z, Ruan L, Zhu Y, Althoefer K. Tac-Man: Tactile-Informed Prior-Free Manipulation of Articulated Objects. ***IEEE Transactions on Robotics***. 2024.
-  * Hou H, Zhu W, Ruan L, Wang Q. Prosthetic Control by Learning: A Multi-Agent Cooperative Game Framework. ***International Conference on Rehabilitation Robotics***. 2025.
-  * Shi YZ, Liu M, Meng F, Xu Q, Bi Z, He K, Ruan L, Wang Q. Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs. ***International Conference on Learning Representations***. 2025.
-  * Shi YZ, Meng F, Hou H, Bi Z,  Xu Q, Ruan L, Wang Q. Expert-Level Protocol Translation for Self-Driving Labs. ***Annual Conference on Neural Information Processing Systems***. 2024.
-  * Shi YZ, Li H, Ruan L, Qu H. Constraint Representation towards Precise Data-Driven Storytelling. ***IEEE Visualization Conference***. 2024.
-  * Shi YZ, Xu Q, Meng F, Ruan L, Wang Q. Abstract Hardware Grounding towards the Automated Design of Automation Systems. ***International Conference on Intelligent Robotics and Applications***. 2024.
-  * Shi YZ, Hou H, Bi Z, Meng F, Wei X, Ruan L, Wang Q. AutoDSL: Automated Domain-Specific Language Design for Structural Representation of Procedures with Constraints. ***Annual Meeting of the Association for Computational Linguistics***. 2024. 
-  * Shi YZ, Li S, Niu X, Xu Q, Liu J, Xu Y, Gu S, He B, Li X, Zhao X, Zhao Z, Lyu Y, Li Z, Liu S, Qiu L, Ji J, Ruan L, Ma Y, Han W, Zhu Y. PersLEARN: Research Training through the Lens of Perspective Cultivation. ***Annual Meeting of the Association for Computational Linguistics***. 2023. 
- 
+  * Z. Zhao, Y. Li, W. Li, Z. Qi, L. Ruan, Y. Zhu, K. Althoefer. Tac-Man: Tactile-Informed Prior-Free Manipulation of Articulated Objects. ***IEEE Transactions on Robotics***. 2024.
+  * H. Hou, W. Zhu, L. Ruan, Q. Wang. Prosthetic Control by Learning: A Multi-Agent Cooperative Game Framework. ***International Conference on Rehabilitation Robotics***. 2025.
+  * Y.Z. Shi, M. Liu, F. Meng, Q. Xu, Z. Bi, K. He, L. Ruan, Q. Wang. Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs. ***International Conference on Learning Representations***. 2025.
+  * Y.Z. Shi, F. Meng, H. Hou, Z. Bi, Q. Xu, L. Ruan, Q. Wang. Expert-Level Protocol Translation for Self-Driving Labs. ***Annual Conference on Neural Information Processing Systems***. 2024.
+  * Y.Z. Shi, H. Li, L. Ruan, H. Qu. Constraint Representation towards Precise Data-Driven Storytelling. ***IEEE Visualization Conference***. 2024.
+  * Y.Z. Shi, Q. Xu, F. Meng, L. Ruan, Q. Wang. Abstract Hardware Grounding towards the Automated Design of Automation Systems. ***International Conference on Intelligent Robotics and Applications***. 2024.
+  * Y.Z. Shi, H. Hou, Z. Bi, F. Meng, X. Wei, L. Ruan, Q. Wang. AutoDSL: Automated Domain-Specific Language Design for Structural Representation of Procedures with Constraints. ***Annual Meeting of the Association for Computational Linguistics***. 2024. 
+  * Y.Z. Shi, S. Li, X. Niu, Q. Xu, J. Liu, Y. Xu, S. Gu, B. He, X. Li, X. Zhao, Z. Zhao, Y. Lyu, Z. Li, S. Liu, L. Qiu, J. Ji, L. Ruan, Y. Ma, W. Han, Y. Zhu. PersLEARN: Research Training through the Lens of Perspective Cultivation. ***Annual Meeting of the Association for Computational Linguistics***. 2023.
+
+
 Teaching
 ======
     
