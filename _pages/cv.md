@@ -101,6 +101,7 @@ Publications
   * C.H. Pi, L. Ruan, P. Yu, Y. Su, S. Cheng, T.C. Tsao. A Simple Six Degree-of-Freedom Aerial Vehicle Built on Quadcopters. ***IEEE Conference on Control Technology and Applications***. 2021.
 
 * ***Representation and Learning***
+  * H. Xu, W. Fan, L. Ruan, R. Shi, A.C. Taylor, D. Zhang. Crack-Net: A Deep Learning Approach to Predict Crack Propagation and Stress–Strain Curves in Particulate Composites. ***Engineering***. 2025.
   * Z. Zhao, Y. Li, W. Li, Z. Qi, L. Ruan, Y. Zhu, K. Althoefer. Tac-Man: Tactile-Informed Prior-Free Manipulation of Articulated Objects. ***IEEE Transactions on Robotics***. 2024.
   * H. Hou, W. Zhu, L. Ruan, Q. Wang. Prosthetic Control by Learning: A Multi-Agent Cooperative Game Framework. ***International Conference on Rehabilitation Robotics***. 2025.
   * Y.Z. Shi, M. Liu, F. Meng, Q. Xu, Z. Bi, K. He, L. Ruan, Q. Wang. Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs. ***International Conference on Learning Representations***. 2025.
