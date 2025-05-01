@@ -83,7 +83,7 @@ Publications
     * Z. Zhou, Z. Zhao, L. Ruan, Q. Wang. A Novel Actuation Mechanism for High-bandwidth Bidirectional Rotation of Cable-driven Revolute Joints. ***IFToMM World Congress***. 2023.
 
 * ***System, Control and Optimization***
-  * Wang Z, Xu D, Zhao S, Yu Z, Huang Y, Ruan L, Zhou Z, Wang Q. Level-Ground and Stair Adaptation for Hip Exoskeletons based on Continuous Locomotion Mode Perception. ***Cyborg and Bionic Systems***. 2025. 
+  * Z. Wang, D. Xu, S. Zhao, Z. Yu, Y. Huang, L. Ruan, Z. Zhou, Q. Wang. Level-Ground and Stair Adaptation for Hip Exoskeletons based on Continuous Locomotion Mode Perception. ***Cyborg and Bionic Systems***. 2025. 
   * S. Gao, C. Yang, H. Chen, X. He, L. Ruan, Q. Wang. Bioinspired Origami-Based Soft Prosthetic Knee. ***Nature Communications***. 2024.
   * X. Dai, Z. Zhou, Z. Wang, L. Ruan, R. Wang, X. Rong, Y. Li, Q. Wang. Reducing Knee Joint Loads During Stance Phase with a Rigid-Soft Hybrid Exoskeleton. ***IEEE Transactions on Neural Systems and Rehabilitation Engineering***. 2024.
   * G. Fu, W. Zhu, H. Wang, Y. Huang, J. Zhu, L. Ruan, Q. Wang. A Robotic Transtibial Prosthesis with Equilibrium-Adjustable Parallel Springs to Improve Energy Efficiency in Slope Walking. ***IEEE/ASME Transactions on Mechatronics***. 2024.
@@ -104,7 +104,7 @@ Publications
 * ***Representation and Learning***
   * H. Xu, W. Fan, L. Ruan, R. Shi, A.C. Taylor, D. Zhang. Crack-Net: A Deep Learning Approach to Predict Crack Propagation and Stress–Strain Curves in Particulate Composites. ***Engineering***. 2025.
   * Z. Zhao, Y. Li, W. Li, Z. Qi, L. Ruan, Y. Zhu, K. Althoefer. Tac-Man: Tactile-Informed Prior-Free Manipulation of Articulated Objects. ***IEEE Transactions on Robotics***. 2024.
-  * Shi YZ, Liu M, Ma H, Xu Q, Qu H, He K, Ruan L, Wang Q. Targeted Control of Fast Prototyping Through Domain-Specific Interface. ***International Conference on Machine Learning***. 2025.
+  * Y.Z. Shi, M. Liu, H. Ma, Q. Xu, H. Qu, K. He, L. Ruan, Q. Wang. Targeted Control of Fast Prototyping Through Domain-Specific Interface. ***International Conference on Machine Learning***. 2025.
   * H. Hou, W. Zhu, L. Ruan, Q. Wang. Prosthetic Control by Learning: A Multi-Agent Cooperative Game Framework. ***International Conference on Rehabilitation Robotics***. 2025.
   * Y.Z. Shi, M. Liu, F. Meng, Q. Xu, Z. Bi, K. He, L. Ruan, Q. Wang. Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs. ***International Conference on Learning Representations***. 2025.
   * Y.Z. Shi, F. Meng, H. Hou, Z. Bi, Q. Xu, L. Ruan, Q. Wang. Expert-Level Protocol Translation for Self-Driving Labs. ***Annual Conference on Neural Information Processing Systems***. 2024.
