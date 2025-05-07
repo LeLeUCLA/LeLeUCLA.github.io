@@ -153,6 +153,8 @@ Review/Editorial Services
 
 * ***Conferences*** 
   * *Robotics: Science and Systems (RSS)*
+  * *International Conference on Machine Learning (ICML)*
+  * *International Conference on Learning Representations (ICLR)*
   * *Annual Meeting of the Association for Computational Linguistics (ACL)*
   * *Annual Conference on Neural Information Processing Systems (NeurIPS)*
   * *International Conference on Robotics and Automation (ICRA)*
