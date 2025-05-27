@@ -80,6 +80,7 @@ Publications
   * J. Luo, Y. Zhao, L. Ruan, S. Mao, C. Fu. Estimation of CoM and CoP Trajectories During Human Walking Based on a Wearable Visual Odometry Device. ***IEEE Transactions on Automation Science and Engineering***. 2022.
   * Y. Zhao, C.Y. Lo, L. Ruan, C.H. Pi, C. Kim, Y. Alsaid, I. Frenkel, R. Rico, T.C. Tsao, X. He. Somatosensory Actuator Based on Stretchable Conductive Photothermally Responsive Hydrogel. ***Science Robotics***. 2021.
   * *Conference*
+  * S. Zhao, Z. Yu, Z. Fan, Z. Zhou, L. Ruan, Q. Wang. Bridging the Illumination Gap: An Illumination-Robust Feature Extractor Enhanced by Relightable 3D Reconstruction. ***IEEE/ASME International Conference on Advanced Intelligent Mechatronics***. 2025.
   * S. Zhao, J. Tan, F. Liu, L. Ruan, Q. Wang. High-Frequency Terrain Characterization with a Wearable Visual Device. ***International Conference on Control, Automation and Robotics***. 2025.
   * W. Zhu, Z. Ju, G. Fu, L. Ruan, Q. Wang. Design of a Mode-Switchable Elastic Actuator towards Interactive Robotic Applications. ***International Conference on Intelligent Robotics and Applications***. 2024.
   * Z. Zhou, Z. Zhao, L. Ruan, Q. Wang. A Novel Actuation Mechanism for High-bandwidth Bidirectional Rotation of Cable-driven Revolute Joints. ***IFToMM World Congress***. 2023.
