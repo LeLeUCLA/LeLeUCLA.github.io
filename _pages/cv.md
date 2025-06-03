@@ -130,6 +130,7 @@ Teaching
   * ***Introduction to Artificial Intelligence***, Yuanpei College.
 
 * ***Tsinghua University*** (2024 - present)
+  * ***Artificial Intelligence: From Technological Singularity to Revolutionary Business Paradigm***, School of Economics and Management.
   * ***Critical Management Techniques for Leading Positions***, School of Economics and Management.
   * ***AI towards Innovative Paradigm for Business Management***, School of Economics and Management.
 
