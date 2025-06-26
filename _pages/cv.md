@@ -80,6 +80,7 @@ Publications
   * J. Luo, Y. Zhao, L. Ruan, S. Mao, C. Fu. Estimation of CoM and CoP Trajectories During Human Walking Based on a Wearable Visual Odometry Device. ***IEEE Transactions on Automation Science and Engineering***. 2022.
   * Y. Zhao, C.Y. Lo, L. Ruan, C.H. Pi, C. Kim, Y. Alsaid, I. Frenkel, R. Rico, T.C. Tsao, X. He. Somatosensory Actuator Based on Stretchable Conductive Photothermally Responsive Hydrogel. ***Science Robotics***. 2021.
   * *Conference*
+  * H. Hou, S. Zhao, Z. Fan, W. Jin, J. Zhu, L. Ruan, Q. Wang. A Marker-Free Motion Capture System Built on Unsynchronized Cameras. ***International Conference on Intelligent Robotics and Applications***. 2025.
   * S. Zhao, Z. Yu, Z. Fan, Z. Zhou, L. Ruan, Q. Wang. Bridging the Illumination Gap: An Illumination-Robust Feature Extractor Enhanced by Relightable 3D Reconstruction. ***IEEE/ASME International Conference on Advanced Intelligent Mechatronics***. 2025.
   * S. Zhao, J. Tan, F. Liu, L. Ruan, Q. Wang. High-Frequency Terrain Characterization with a Wearable Visual Device. ***International Conference on Control, Automation and Robotics***. 2025.
   * W. Zhu, Z. Ju, G. Fu, L. Ruan, Q. Wang. Design of a Mode-Switchable Elastic Actuator towards Interactive Robotic Applications. ***International Conference on Intelligent Robotics and Applications***. 2024.
@@ -103,6 +104,7 @@ Publications
   * H. Zhu, D. Wang, N. Boyd, Z. Zhou, L. Ruan, A. Zhang, N. Ding, Y. Zhao, J. Luo. Terrain-Perception-Free Quadrupedal Spinning Locomotion on Versatile Terrains: Modeling, Analysis, and Experimental Validation. ***Frontiers in Robotics and AI***. 2021.
   * J. Luo, Y. Su, L. Ruan, Y. Zhao, D. Kim, L. Sentis, C. Fu. Robust Bipedal Locomotion Based on a Hierarchical Control Structure. ***Robotica***. 2019.
   * *Conference*
+  * W. Zhu, M. Cai, H. Hou, S. Zhao, L. Ruan, Q. Wang. Knee Prosthesis Stair Ascending with Adaptive Clearance and Foot Placement. ***International Conference on Intelligent Robotics and Applications***. 2025.
   * W. Zhu, M. Cai, H. Hou, S. Zhao, L. Ruan, Q. Wang. Obstacle Avoidance for Knee Prostheses via Direct Integration of Environment Information. ***Chinese Control Conference***. 2025.
   * C.H. Pi, L. Ruan, P. Yu, Y. Su, S. Cheng, T.C. Tsao. A Simple Six Degree-of-Freedom Aerial Vehicle Built on Quadcopters. ***IEEE Conference on Control Technology and Applications***. 2021.
 
@@ -111,6 +113,7 @@ Publications
   * H. Xu, W. Fan, L. Ruan, R. Shi, A.C. Taylor, D. Zhang. Crack-Net: A Deep Learning Approach to Predict Crack Propagation and Stress–Strain Curves in Particulate Composites. ***Engineering***. 2025.
   * Z. Zhao, Y. Li, W. Li, Z. Qi, L. Ruan, Y. Zhu, K. Althoefer. Tac-Man: Tactile-Informed Prior-Free Manipulation of Articulated Objects. ***IEEE Transactions on Robotics***. 2024.
   * *Conference*
+  * K. Yang, D. Jiang, L. Ruan, Q. Wang. Learning Human-like Finger Gaiting on an Anthropomorphic Hand. ***International Conference on Intelligent Robotics and Applications***. 2025.
   * Y.Z. Shi, M. Liu, H. Ma, Q. Xu, H. Qu, K. He, L. Ruan, Q. Wang. Targeted Control of Fast Prototyping Through Domain-Specific Interface. ***International Conference on Machine Learning***. 2025.
   * H. Hou, W. Zhu, L. Ruan, Q. Wang. Prosthetic Control by Learning: A Multi-Agent Cooperative Game Framework. ***International Conference on Rehabilitation Robotics***. 2025.
   * Y.Z. Shi, M. Liu, F. Meng, Q. Xu, Z. Bi, K. He, L. Ruan, Q. Wang. Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs. ***International Conference on Learning Representations***. 2025.
