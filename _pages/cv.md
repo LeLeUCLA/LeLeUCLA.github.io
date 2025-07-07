@@ -110,7 +110,7 @@ Publications
 
 * ***Representation and Learning***
   * *Journal*
-  * F.L. Fan, H.C. Dong, Z. Wu, L. Ruan, T. Zeng, Y. Cui, J.X. Liao. One Neuron Saved is One Neuron Earned: On Parametric Efficiency of Quadratic Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence. 2025.
+  * F.L. Fan, H.C. Dong, Z. Wu, L. Ruan, T. Zeng, Y. Cui, J.X. Liao. One Neuron Saved is One Neuron Earned: On Parametric Efficiency of Quadratic Networks. ***IEEE Transactions on Pattern Analysis and Machine Intelligence***. 2025.
   * H. Xu, W. Fan, L. Ruan, R. Shi, A.C. Taylor, D. Zhang. Crack-Net: A Deep Learning Approach to Predict Crack Propagation and Stress–Strain Curves in Particulate Composites. ***Engineering***. 2025.
   * Z. Zhao, Y. Li, W. Li, Z. Qi, L. Ruan, Y. Zhu, K. Althoefer. Tac-Man: Tactile-Informed Prior-Free Manipulation of Articulated Objects. ***IEEE Transactions on Robotics***. 2024.
   * *Conference*
