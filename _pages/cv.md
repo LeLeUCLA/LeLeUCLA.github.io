@@ -87,7 +87,9 @@ Publications
   * Z. Zhou, Z. Zhao, L. Ruan, Q. Wang. A Novel Actuation Mechanism for High-bandwidth Bidirectional Rotation of Cable-driven Revolute Joints. ***IFToMM World Congress***. 2023.
 
 * ***System, Control and Optimization*** 
-  * *Journal*  
+  * *Journal*
+  * Z. Zhao, L. Cui, S. Xie, S. Zhang, Z. Han, L. Ruan, Y. Zhu. B*: Efficient and Optimal Base Placement for Fixed-Base Manipulators. ***IEEE Robotics and Automation Letters***. 2025.
+  * H. Li, Y. Chai, B. Lv, L. Ruan, H. Zhao, Y. Zhao, J. Luo. Physics-Informed Neural Network Predictive Control for Quadruped Locomotion. ***IEEE Robotics and Automation Letters***. 2025.
   * Z. Wang, D. Xu, S. Zhao, Z. Yu, Y. Huang, L. Ruan, Z. Zhou, Q. Wang. Level-Ground and Stair Adaptation for Hip Exoskeletons based on Continuous Locomotion Mode Perception. ***Cyborg and Bionic Systems***. 2025. 
   * S. Gao, C. Yang, H. Chen, X. He, L. Ruan, Q. Wang. Bioinspired Origami-Based Soft Prosthetic Knee. ***Nature Communications***. 2024.
   * X. Dai, Z. Zhou, Z. Wang, L. Ruan, R. Wang, X. Rong, Y. Li, Q. Wang. Reducing Knee Joint Loads During Stance Phase with a Rigid-Soft Hybrid Exoskeleton. ***IEEE Transactions on Neural Systems and Rehabilitation Engineering***. 2024.
