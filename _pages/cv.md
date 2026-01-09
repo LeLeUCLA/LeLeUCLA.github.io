@@ -88,7 +88,7 @@ Publications
 
 * ***System, Control and Optimization*** 
   * *Journal*
-  * Z. Zhao, L. Cui, S. Xie, S. Zhang, Z. Han, L. Ruan, Y. Zhu. B*: Efficient and Optimal Base Placement for Fixed-Base Manipulators. ***IEEE Robotics and Automation Letters***. 2025.
+  * Z. Zhao, L. Cui, S. Xie, S. Zhang, Z. Han, L. Ruan, Y. Zhu. B\*: Efficient and Optimal Base Placement for Fixed-Base Manipulators. ***IEEE Robotics and Automation Letters***. 2025.
   * H. Li, Y. Chai, B. Lv, L. Ruan, H. Zhao, Y. Zhao, J. Luo. Physics-Informed Neural Network Predictive Control for Quadruped Locomotion. ***IEEE Robotics and Automation Letters***. 2025.
   * Z. Wang, D. Xu, S. Zhao, Z. Yu, Y. Huang, L. Ruan, Z. Zhou, Q. Wang. Level-Ground and Stair Adaptation for Hip Exoskeletons based on Continuous Locomotion Mode Perception. ***Cyborg and Bionic Systems***. 2025. 
   * S. Gao, C. Yang, H. Chen, X. He, L. Ruan, Q. Wang. Bioinspired Origami-Based Soft Prosthetic Knee. ***Nature Communications***. 2024.
