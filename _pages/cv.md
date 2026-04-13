@@ -64,6 +64,8 @@ Awards and Honors
 * Recipient of 29 other scholarships (for study, research, volunteer work *etc.*) during undergraduate study at HIT, in total ¥97,600.
 
 ***3. Awards***
+* ***2025 T-ASE Best Paper Award***, IEEE. (2026)
+
 * ***Gold Medal***, World Humanoid Robot Games on Group Dance. (2025)
 
 * ***Finalist***, TECO Green Tech International Contest. (2017)
