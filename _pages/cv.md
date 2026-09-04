@@ -158,6 +158,8 @@ Teaching
 Review/Editorial Services
 ======
 * ***Journals***
+  * *Science Robotics*
+  * *Nature Communications*
   * *IEEE Transactions on Robotics*
   * *IEEE/ASME Transactions on Mechatronics*
   * *IEEE Transactions on Automation Science and Engineering*
