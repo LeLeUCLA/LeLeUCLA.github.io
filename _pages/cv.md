@@ -94,6 +94,7 @@ Publications
 
 * ***System, Control and Optimization*** 
   * *Journal*
+  * H. Wu, W. Chen, L. Tuo, J. Ren, L. Ju, X. Hu, Y. Shao, D. Shi, L. Ruan, Y. Huang, B. Zhang, K. Wang, Y. Feng, W. Zhang. A Hybrid Assistive-Resistive Isokinetic Training Robot for Full-Cycle Knee Rehabilitation. ***IEEE Transactions on Neural Systems and Rehabilitation Engineering***. 2026.
   * Z. Zhao, L. Cui, S. Xie, S. Zhang, Z. Han, L. Ruan, Y. Zhu. B\*: Efficient and Optimal Base Placement for Fixed-Base Manipulators. ***IEEE Robotics and Automation Letters***. 2025.
   * H. Li, Y. Chai, B. Lv, L. Ruan, H. Zhao, Y. Zhao, J. Luo. Physics-Informed Neural Network Predictive Control for Quadruped Locomotion. ***IEEE Robotics and Automation Letters***. 2025.
   * Z. Wang, D. Xu, S. Zhao, Z. Yu, Y. Huang, L. Ruan, Z. Zhou, Q. Wang. Level-Ground and Stair Adaptation for Hip Exoskeletons based on Continuous Locomotion Mode Perception. ***Cyborg and Bionic Systems***. 2025. 
@@ -118,11 +119,13 @@ Publications
 
 * ***Representation and Learning***
   * *Journal*
+  * Z Zhao, Z Qi, Y Li, L Cui, Z Han, L Ruan, Y Zhu. TacMan-Turbo: Proactive Tactile Control for Robust and Efficient Articulated Object Manipulation. ***IEEE Transactions on Automation Science and Engineering***. 2026.
   * Y.Z. Shi, Q. Xu, Y. Li, M. Liu, H. Qu, L. Ruan, Q. Wang. Automated Constraint Specification for Job Scheduling by Regulating Generative Model with Domain-Specific Representation. ***IEEE Transactions on Automation Science and Engineering***. 2025.
   * F.L. Fan, H.C. Dong, Z. Wu, L. Ruan, T. Zeng, Y. Cui, J.X. Liao. One Neuron Saved is One Neuron Earned: On Parametric Efficiency of Quadratic Networks. ***IEEE Transactions on Pattern Analysis and Machine Intelligence***. 2025.
   * H. Xu, W. Fan, L. Ruan, R. Shi, A.C. Taylor, D. Zhang. Crack-Net: A Deep Learning Approach to Predict Crack Propagation and Stress–Strain Curves in Particulate Composites. ***Engineering***. 2025.
   * Z. Zhao, Y. Li, W. Li, Z. Qi, L. Ruan, Y. Zhu, K. Althoefer. Tac-Man: Tactile-Informed Prior-Free Manipulation of Articulated Objects. ***IEEE Transactions on Robotics***. 2024.
   * *Conference*
+  * F. Fan, W. Huang, L. Ruan, T. Zeng, H. Xiong, F. Wang. Deep ReLU Networks Have Surprisingly Simple Polytopes. ***China Automation Congress***. 2025.
   * K. Yang, D. Jiang, L. Ruan, Q. Wang. Learning Human-like Finger Gaiting on an Anthropomorphic Hand. ***International Conference on Intelligent Robotics and Applications***. 2025.
   * Y.Z. Shi, M. Liu, H. Ma, Q. Xu, H. Qu, K. He, L. Ruan, Q. Wang. Targeted Control of Fast Prototyping Through Domain-Specific Interface. ***International Conference on Machine Learning***. 2025.
   * H. Hou, W. Zhu, L. Ruan, Q. Wang. Prosthetic Control by Learning: A Multi-Agent Cooperative Game Framework. ***International Conference on Rehabilitation Robotics***. 2025.
