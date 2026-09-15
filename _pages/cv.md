@@ -64,7 +64,7 @@ Awards and Honors
 * Recipient of 29 other scholarships (for study, research, volunteer work *etc.*) during undergraduate study at HIT, in total ¥97,600.
 
 ***3. Awards***
-* ***Sun Zeng-Qi Highlight Paper in Intelligent Automation***, CAA. (2026)
+* ***Sun Zeng-Qi Highlight Paper for Intelligent Automation***, CAA. (2026)
 
 * ***IEEE T-ASE Best Paper of 2025***, IEEE. (2026)
 
